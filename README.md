@@ -1,1 +1,1 @@
-# Pr-ctica-SM
+# Practica-SM
